@@ -19,7 +19,7 @@ Repositorio Daniel Rojas
 
 | Nombre      | Rol en el grupo | Correo / Contacto |
 |--------     |---------------|-------------------------------|
-|DANIEL ROJAS |       PUMAS       daniel.rojas@oteima.ac.pa   |
+|DANIEL ROJAS |       PUMAS   |    daniel.rojas@oteima.ac.pa   |
 |             |               |                               |
 |             |               |                               |
 |             |               |                               |
