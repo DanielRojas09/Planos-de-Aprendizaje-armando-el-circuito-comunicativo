@@ -83,7 +83,7 @@ Estos obstáculos pueden hacer que el mensaje no se entienda bien o que el apren
 | 👂 **Receptor**     | Estudiantes|Los estudiantes son receptores cuando escuchan la clase, leen los documentos o revisan las instrucciones. El docente también es receptor cuando atiende dudas, lee respuestas o evalúa actividades. | 👂📚                     |
 | 🌐 **Canal**        |Medio por donde se transmite el mensaje| Ej: Google Meet, Moodle, WhatsApp, correo | 💻📱📧|
 | ⚠️ **Ruido**        |Barreras o dificultades| Ej: desconexión, distracción, mal diseño de contenido    |⚠️📶🔇 |
-| 🔁 **Retroalimentación** |Cómo se completa el circuito|La comunicación se completa cuando el receptor responde. Esto ocurre mediante preguntas, comentarios, tareas, participación en debates, correcciones del docente o aclaraciones durante la clase. | |🔁💬✅|
+| 🔁 **Retroalimentación** |Cómo se completa el circuito|La comunicación se completa cuando el receptor responde. Esto ocurre mediante preguntas, comentarios, tareas, participación en debates, correcciones del docente o aclaraciones durante la clase.|🔁💬✅|
 
 ---
 
