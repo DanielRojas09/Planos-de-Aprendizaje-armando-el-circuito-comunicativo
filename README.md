@@ -79,11 +79,11 @@ Estos obstáculos pueden hacer que el mensaje no se entienda bien o que el apren
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**       |            |                                                          |                      |
-| 👂 **Receptor**     |            |                                                          |                      |
-| 🌐 **Canal**        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
-| ⚠️ **Ruido**        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
-| 🔁 **Retroalimentación** |      | Cómo se completa el circuito                             |                      |
+| 🔊 **Emisor**       | Docente |En las clases virtuales, el docente actúa como emisor cuando explica los contenidos, da indicaciones o comparte materiales. Los estudiantes también asumen este rol cuando hacen preguntas, participan en foros o presentan trabajos.|👨‍🏫➡️💬 / 👩‍🎓➡️💬|
+| 👂 **Receptor**     | Estudiantes|Los estudiantes son receptores cuando escuchan la clase, leen los documentos o revisan las instrucciones. El docente también es receptor cuando atiende dudas, lee respuestas o evalúa actividades. | 👂📚                     |
+| 🌐 **Canal**        |Medio por donde se transmite el mensaje| Ej: Google Meet, Moodle, WhatsApp, correo | 💻📱📧|
+| ⚠️ **Ruido**        |Barreras o dificultades| Ej: desconexión, distracción, mal diseño de contenido    |⚠️📶🔇 |
+| 🔁 **Retroalimentación** |Respuesta o interacción | Cómo se completa el circuito|La comunicación se completa cuando el receptor responde. Esto ocurre mediante preguntas, comentarios, tareas, participación en debates, correcciones del docente o aclaraciones durante la clase.|🔁💬✅|
 
 ---
 
