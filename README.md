@@ -3,7 +3,7 @@ Repositorio Daniel Rojas
 # 🌌 Planos del Aprendizaje: Armando el Circuito Comunicativo
 
 ### 🛰️ Título:
-**Plano comunicativo – Célula Hacker [Nombre del Grupo]**
+**Plano comunicativo – Célula Hacker DANIEL ARISTIDES ROJAS SPARKS -  GRUPO PUMAS -
 
 ---
 
@@ -17,12 +17,12 @@ Repositorio Daniel Rojas
 
 ## 👥 2️⃣ Integrantes del grupo
 
-| Nombre | Rol en el grupo | Correo / Contacto |
-|--------|---------------|-------------------|
-|Briseida|               |                   |
-|        |               |                   |
-|        |               |                   |
-|        |               |                   |
+| Nombre      | Rol en el grupo | Correo / Contacto |
+|--------     |---------------|-------------------------------|
+|DANIEL ROJAS |       PUMAS       daniel.rojas@oteima.ac.pa   |
+|             |               |                               |
+|             |               |                               |
+|             |               |                               |
 
 ---
 
